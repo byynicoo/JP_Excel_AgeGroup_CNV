@@ -21,7 +21,7 @@ It automatically adds the appropriate *Age Group* and optionally *Gender/Brand* 
 
 Below is a preview of the application interface:
 
-![Just Play Excel AgeGroup Converter UI](assets/screenshot.png)
+![Just Play Excel AgeGroup Converter UI](assets/Screenshot.png)
 
 ---
 
